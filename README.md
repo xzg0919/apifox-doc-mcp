@@ -86,7 +86,6 @@ nohup java -jar doc-mcp-0.0.1-SNAPSHOT.jar > mcp-server.log 2>&1 &
 }
 ```
 
-**注意**：URL路径是 `/sse`，不是 `/mcp/sse`
 
 ## 使用示例
 
@@ -96,10 +95,6 @@ nohup java -jar doc-mcp-0.0.1-SNAPSHOT.jar > mcp-server.log 2>&1 &
 请帮我上传一个API文档到ApiFox：
 - 项目ID: 4478210
 - 访问令牌: your-access-token
-- API标题: "用户管理API"
-- 版本: "1.0.0"
-- 描述: "用户注册、登录和管理相关接口"
-- 服务器URL: "https://api.example.com"
 ```
 
 ## 配置说明
