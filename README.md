@@ -135,5 +135,3 @@ src/main/java/com/api/docmcp/
 └── config/
     └── WebClientConfig.java        # HTTP客户端配置
 ```
-
-# doc-mcp
